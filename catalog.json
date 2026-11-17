@@ -1,0 +1,30 @@
+{
+  "format": 1,
+  "updated": "2026-11-17",
+  "cases": [
+    {
+      "number": 7,
+      "title": "The Smuggler's Recipe",
+      "clubFrom": "2026-11-24",
+      "freeFrom": "2026-12-01",
+      "pack": "case-7/pack.json",
+      "bytes": 1066981
+    },
+    {
+      "number": 8,
+      "title": "The Missing Monocle",
+      "clubFrom": "2026-12-01",
+      "freeFrom": "2026-12-08",
+      "pack": "case-8/pack.json",
+      "bytes": 939659
+    },
+    {
+      "number": 9,
+      "title": "The Winter Market Takings",
+      "clubFrom": "2026-12-08",
+      "freeFrom": "2026-12-15",
+      "pack": "case-9/pack.json",
+      "bytes": 998142
+    }
+  ]
+}
