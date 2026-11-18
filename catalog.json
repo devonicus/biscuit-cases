@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "updated": "2026-11-17",
+  "updated": "2026-11-18",
   "cases": [
     {
       "number": 7,
@@ -24,7 +24,23 @@
       "clubFrom": "2026-12-08",
       "freeFrom": "2026-12-15",
       "pack": "case-9/pack.json",
-      "bytes": 998142
+      "bytes": 998295
+    },
+    {
+      "number": 10,
+      "title": "The Gingerbread Lighthouse",
+      "clubFrom": "2026-12-15",
+      "freeFrom": "2026-12-22",
+      "pack": "case-10/pack.json",
+      "bytes": 1123075
+    },
+    {
+      "number": 11,
+      "title": "The Time Capsule",
+      "clubFrom": "2026-12-22",
+      "freeFrom": "2026-12-29",
+      "pack": "case-11/pack.json",
+      "bytes": 1182375
     }
   ]
 }
